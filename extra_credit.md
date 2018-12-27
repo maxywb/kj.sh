@@ -1,0 +1,2 @@
+- [jupyter notebook](https://www.chrisjmendez.com/2018/11/06/installing-jupyter-on-os-x-using-homebrew/)
+- [alfred](https://www.alfredapp.com/)
